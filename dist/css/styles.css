@@ -1,4 +1,9 @@
 @charset "UTF-8";
+.bg-image {
+  background-image: url("../images/Lego-background.jpg");
+  background-size: cover;
+}
+
 /*!
  * Bootstrap  v5.2.2 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
